@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumya Deep Saha</h1>
 <h3 align="center">A passionate Full Stack Web Developer | App Developer | Java Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b9527e0ygatkemvipe4lohhfwo5k9faznqaep6mfkd6c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadeepsaha1200&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepsaha1200" /> </p>
 
 - 🌱 I’m currently learning **React JS, Advance Android**
