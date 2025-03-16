@@ -60,25 +60,25 @@
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
   <strong>✨ Notable Projects:</strong><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/iCube-Computer-Sales-and-Services" target="_blank">iCube Computer Sales and Services</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/iCube-Computer-Sales-and-Services](https://www.icubelearning.com/ICUBE_SHOP/)" target="_blank">iCube Computer Sales and Services</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/TutorEase" target="_blank">TutorEase Education and Learning</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Cheating-Detention" target="_blank">AI Cheating Detection (Major Graduation Project)</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Jervis" target="_blank">Jervis</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Royal-Banquet-Hall" target="_blank">Royal Banquet Hall</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Programming-Solution" target="_blank">Programming Solution</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Royal-Banquet-Hall](https://dreamgardenbanquet.in/Banquet/)" target="_blank">Royal Banquet Hall</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Programming-Solution](https://programming-web-six.vercel.app/)" target="_blank">Programming Solution</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/School-Management-System" target="_blank">School Management System</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Ecommerce" target="_blank">E-Commerce Website</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Bill-Generator" target="_blank">Bill Generator</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Wine-Shop" target="_blank">Wine Shop</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/AI-Tutor" target="_blank">AI Tutor</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Spider-Web" target="_blank">Spider Web</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Gym-Website" target="_blank">Gym Website</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Egypt-Tour" target="_blank">Egypt Travel Website</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Gaming-Website" target="_blank">Gaming Website</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Restaurant-Website" target="_blank">Restaurant Website</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Travel-Website" target="_blank">Travel Website</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Hoichoi-Clone" target="_blank">Hoichoi Clone</a><br>
-  - <a href="https://github.com/SoumyaDeepSaha1200/Photography-Website" target="_blank">Photography Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Spider-Web](https://spider-web-rho.vercel.app/)" target="_blank">Spider Web</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Gym-Website](https://www.icubelearning.com/project/DAAD478/website1/)" target="_blank">Gym Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Egypt-Tour](https://www.icubelearning.com/project/DAAD478/website2/)" target="_blank">Egypt Travel Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Gaming-Website](https://www.icubelearning.com/project/DAAD478/website3/)" target="_blank">Gaming Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Restaurant-Website](https://www.icubelearning.com/project/DAAD478/website4/)" target="_blank">Restaurant Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Travel-Website](https://www.icubelearning.com/project/DAAD478/website5/)" target="_blank">Travel Website</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Hoichoi-Clone](http://www.icubelearning.com/project/DAAD478/website8/)" target="_blank">Hoichoi Clone</a><br>
+  - <a href="[https://github.com/SoumyaDeepSaha1200/Photography-Website](http://www.icubelearning.com/project/DAAD478/website9/)" target="_blank">Photography Website</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Education-Website" target="_blank">Education Website</a><br>
   - <a href="https://github.com/SoumyaDeepSaha1200/Data-Analytics-Dashboard" target="_blank">Data Analytics Dashboard</a><br>
   
