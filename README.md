@@ -15,11 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/soumya-deep-saha-579a73222/](https://www.linkedin.com/in/soumya-deep-saha-579a73222/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/soumya-deep-saha-579a73222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  
   <a href="https://www.facebook.com/profile.php?id=100010056245109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="[https://www.instagram.com/the_nature_in_my_lens/](https://www.instagram.com/lens_.aur_.code/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="[https://leetcode.com/profile/](https://www.hackerrank.com/profile/deepadiotic)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="[[https://leetcode.com/YOUR_LEETCODE_USERNAME/](https://leetcode.com/u/Soumya_deep_saha/)](https://leetcode.com/u/Soumya_deep_saha/)" target="_blank">
+  
+  <a href="https://www.instagram.com/lens_.aur_.code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  
+  <a href="https://www.hackerrank.com/profile/deepadiotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LeetCode" height="30" width="40" /></a>
+  
+  <a href="https://leetcode.com/u/Soumya_deep_saha/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
