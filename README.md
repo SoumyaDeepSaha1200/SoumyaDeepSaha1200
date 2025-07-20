@@ -103,11 +103,11 @@
   <li><a href="https://www.icubelearning.com/project/DAAD478/website3/" target="_blank">Game Website Project</a></li>
   <li><a href="https://www.icubelearning.com/project/DAAD478/website4/" target="_blank">Aminia Project</a></li>
   <li><a href="https://www.icubelearning.com/project/DAAD478/website5/" target="_blank">Travel Website</a></li>
-  <li><a href="#" target="_blank">JavaScript Website</a></li>
-  <li><a href="#" target="_blank">Tic Tac Toe Game</a></li>
+  <li><a href="https://www.icubelearning.com/project/DAAD478/website6/" target="_blank">JavaScript Website</a></li>
+  <li><a href="https://www.icubelearning.com/project/DAAD478/website7/" target="_blank">Tic Tac Toe Game</a></li>
   <li><a href="http://www.icubelearning.com/project/DAAD478/website8/" target="_blank">Hoichoi Clone</a></li>
   <li><a href="http://www.icubelearning.com/project/DAAD478/website9/" target="_blank">My Photography</a></li>
-  <li><a href="#" target="_blank">Tech Advance</a></li>
+  <li><a href="https://www.icubelearning.com/project/DAAD478/website11/" target="_blank">Tech Advance</a></li>
   <li><a href="https://github.com/SoumyaDeepSaha1200/TutorEase" target="_blank">Tutorease</a></li>
   <li><a href="https://www.icubelearning.com/ICUBE_SHOP/" target="_blank">ICUBE Computer Services</a></li>
   <li><a href="https://spider-web-rho.vercel.app/" target="_blank">SpiderWeb Services</a></li>
