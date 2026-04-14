@@ -28,7 +28,7 @@
 📫 Email: **soumyadeepsaha400@gmail.com**  
 
 🌐 Portfolio:  
-👉 https://soumyadeepsaha1200.github.io/deep_uportfolio.github.io/
+👉 [https://soumyadeepsaha1200.github.io/deep_uportfolio.github.io/](https://portfolio1-3ld3.onrender.com/)
 
 ---
 
