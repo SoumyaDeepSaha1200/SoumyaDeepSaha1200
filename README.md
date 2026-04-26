@@ -1,53 +1,72 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Soumya Deep Saha</h1>
 
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Future Software Architect</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MCA+(AI+%26+Data+Science)+Student;Full+Stack+Developer+(MERN);Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+GenAI+Enthusiast;Future+Software+Engineer&center=true&width=700&height=50&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MCA+(AI+%26+Data+Science)+Student;Full+Stack+Developer+(MERN+%7C+Django);Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+GenAI;Building+AI+Driven+Systems&center=true&width=750&height=50&color=00F7FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyadeepsaha1200&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=soumyadeepsaha1200&label=Profile%20Views&color=00F7FF&style=flat" />
   <img src="https://img.shields.io/github/followers/soumyadeepsaha1200?style=social" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=140&section=header"/>
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
-## 🚀 About Me
+## 🧠 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="AI Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 MCA (AI & Data Science) | Techno International Newtown (2024–2026)  
+- 🎓 MCA (AI & Data Science) | 2024–2026  
 - 🎓 BCA Graduate (CGPA: 7.97)  
 - 💻 Full Stack Developer (MERN | Django | Java)  
-- 🤖 Passionate about AI, Deep Learning, NLP & Generative AI  
+- 🤖 AI/ML Engineer | Deep Learning | NLP | GenAI  
 - 📊 Strong in DSA, OOP, DBMS, OS, CN  
-- 🔬 Research Focus: 6G Networks, Quantum Security, AI Systems  
-- 🚀 Building real-world AI + Web + IoT solutions  
+- 🔬 Research: **6G Networks, Quantum Security, AI Systems**  
+- 🚀 Building scalable AI + Web + IoT solutions  
 
-📫 **Email:** soumyadeepsaha400@gmail.com  
+📫 **Email:** `soumyadeepsaha400@gmail.com`  
 
 🌐 **Portfolio:**  
 👉 https://portfolio1-3ld3.onrender.com/
 
 ---
 
-<!-- ================= CODING PROFILES ================= -->
-## 🔗 Coding Profiles
+<!-- ================= SOCIAL ================= -->
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/u/Soumya_deep_saha/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://portfolio1-3ld3.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/deepadiotic" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+  <a href="mailto:soumyadeepsaha400@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/cloud_score_74" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= CODING ================= -->
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Soumya_deep_saha/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/deepadiotic">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+  </a>
+  <a href="https://www.codechef.com/users/cloud_score_74">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
   </a>
 </p>
 
@@ -57,35 +76,8 @@
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
-## 💼 Experience
-
-### 🧠 Data Science Intern  
-**National Institute of Industrial Training (2025)**  
-- Built Stock Market Prediction & House Price Models  
-- Used NumPy, Pandas, Matplotlib  
-- Performed Web Scraping & Data Cleaning  
-- Applied ML models with performance evaluation  
-
----
-
-### 🤖 Machine Learning Intern  
-**Euphoria Gnex (2023)**  
-- Developed AI-based Cheating Detection System  
-- Worked on Supervised & Unsupervised Learning  
-- Used CI/CD (Jenkins) + Automation  
-- Built dashboards using HTML, CSS, JS  
-
----
-
-### 🌐 Full Stack Developer Training  
-- Built responsive web apps using Django, PHP, JS  
-- Implemented authentication systems & APIs  
-
----
-
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
+<!-- ================= SKILLS ================= -->
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,mongodb,mysql,postgresql,tensorflow,pytorch,opencv,docker,aws,git,linux&perline=9" />
@@ -93,65 +85,76 @@
 
 ---
 
+<!-- ================= EXPERIENCE ================= -->
+## 💼 Experience
+
+### 🧠 Data Science Intern (2025)
+- Stock Market Prediction (LSTM, ML Models)
+- Data Cleaning, Feature Engineering
+- Visualization & Model Optimization
+
+### 🤖 Machine Learning Intern (2023)
+- AI Cheating Detection System
+- CI/CD with Jenkins
+- Dashboard Development
+
+### 🌐 Full Stack Developer
+- Built scalable web apps (Django + MERN)
+- Authentication & REST APIs
+
+---
+
 <!-- ================= PROJECTS ================= -->
-## 🚀 Major Projects
+## 🚀 Featured Projects
 
-### 📊 Quantitative Stock Market Prediction
-- LSTM, Random Forest, Linear Regression  
-- Time-series forecasting & feature engineering  
-- Optimized RMSE, MAE  
+### 📊 Stock Market Prediction
+- LSTM + Random Forest + Regression  
+- Time-series forecasting  
+- Performance optimization (RMSE, MAE)
 
----
+### 🐄 Livestock Breed Detection
+- CNN Model (TensorFlow/Keras)  
+- Flask API + React UI  
 
-### 🐄 Livestock Breed Identification
-- CNN using TensorFlow + Keras  
-- Flask API + React frontend  
+### 🔐 6G Quantum Network
+- AI-based network slicing  
+- Quantum Key Distribution  
+- Low latency optimization  
 
----
+### ♻️ Smart Waste Segregation
+- IoT + ML classification  
+- Real-time monitoring dashboard  
 
-### 🔐 6G Quantum-Secured Network
-- AI-based dynamic network slicing  
-- Integrated Quantum Key Distribution  
-- Focus on latency & QoS  
-
----
-
-### ♻️ AI-Based Plastic Segregation System
-- IoT Sensors + ML classification  
-- Real-time dashboard + cloud integration  
-
----
-
-### 🎯 Cheating Detection System
-- Face detection + eye tracking  
-- Audio + behavior analysis  
-- Auto alerts & logging  
+### 🎯 AI Cheating Detection
+- Face + Eye Tracking  
+- Audio Monitoring  
+- Auto alerts system  
 
 ---
 
 <!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements
 
-- 🚀 ISRO Bharatiya Antariksh Hackathon 2025 – Team Leader  
-- 🏆 Smart India Hackathon (2022, 2023, 2025) – Team Lead  
-- 🥈 JIS Samman Kabaddi Tournament – Runner-up  
-- 🎯 Strong leadership & project execution skills  
+- 🚀 ISRO BAH 2025 – Team Leader  
+- 🏆 Smart India Hackathon – Multiple Participation  
+- 🥈 Kabaddi Tournament Runner-Up  
+- 🎯 Strong leadership & execution skills  
 
 ---
 
 <!-- ================= CERTIFICATIONS ================= -->
 ## 📜 Certifications
 
-- HackerRank (Python, SQL)  
-- Oracle Foundations Associate  
-- NPTEL IoT Certification  
-- Microsoft + LinkedIn (Generative AI)  
-- Accenture, Deloitte, JP Morgan (Forage)  
+- ✔ HackerRank (Python, SQL)  
+- ✔ Oracle Foundations  
+- ✔ NPTEL IoT  
+- ✔ Microsoft Generative AI  
+- ✔ Accenture, Deloitte (Forage)  
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
+<!-- ================= GITHUB ================= -->
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadeepsaha1200&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -172,9 +175,19 @@
 
 ---
 
+<!-- ================= EXTRA ================= -->
+## ⚡ What I'm Currently Working On
+
+- 🔥 Advanced AI Projects (GenAI + Agents)  
+- 📡 6G + AI Research  
+- 🧠 Deep Learning Optimization  
+- 🌐 Scalable Full Stack Systems  
+
+---
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=140&section=footer"/>
 </p>
 
 <h3 align="center">⚡ Engineering Intelligence with Code & AI ⚡</h3>
