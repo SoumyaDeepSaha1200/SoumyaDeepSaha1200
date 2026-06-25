@@ -34,7 +34,7 @@
 📫 **Email:** `soumyadeepsaha400@gmail.com`  
 
 🌐 **Portfolio:**  
-👉 [https://portfolio1-3ld3.onrender.com/](https://official-portfolio-ngke5ea2c-deepadioticgmailcoms-projects.vercel.app/)
+👉 [https://portfolio1-3ld3.onrender.com/]([https://official-portfolio-ngke5ea2c-deepadioticgmailcoms-projects.vercel.app/](https://official-portfolio-dusky.vercel.app/main.html))
 
 ---
 
