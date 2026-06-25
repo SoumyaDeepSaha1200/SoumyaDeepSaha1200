@@ -34,7 +34,19 @@
 📫 **Email:** `soumyadeepsaha400@gmail.com`  
 
 🌐 **Portfolio:**  
-👉 [https://portfolio1-3ld3.onrender.com/]([https://official-portfolio-ngke5ea2c-deepadioticgmailcoms-projects.vercel.app/](https://official-portfolio-dusky.vercel.app/main.html))
+👉 https://official-portfolio-dusky.vercel.app
+
+💼 **LinkedIn:**  
+👉 https://www.linkedin.com/in/soumya-deep-saha-579a73222/
+
+💻 **GitHub:**  
+👉 https://github.com/SoumyaDeepSaha1200
+
+🧠 **LeetCode:**  
+👉 https://leetcode.com/u/Soumya_deep_saha/
+
+📧 **Email:**  
+👉 deepadiotic@gmail.com
 
 ---
 
